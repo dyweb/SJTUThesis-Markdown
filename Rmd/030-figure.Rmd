@@ -1,0 +1,8 @@
+# 示例图
+
+这里是插入图片的示例，如不想显示代码在 option 里添加 `echo=FALSE`。比如 `{r logo, out.width='32.8%', fig.show='hold', fig.cap='logo', fig.align="center, echo=FALSE"}`
+
+
+```{r logo, out.width='32.8%', fig.show='hold', fig.cap='logo', fig.align="center"}
+knitr::include_graphics("images/sjtulogo.pdf")
+```
