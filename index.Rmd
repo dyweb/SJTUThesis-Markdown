@@ -18,6 +18,7 @@ englishtitle: "A Sample Document for Bookdown-Based SJTU Thesis Template"
 englishmajor: "Software Engineering"
 
 bibliography: [bib/thesis.bib]
+
 link-citations: yes
 colorlinks: yes
 lot: no
