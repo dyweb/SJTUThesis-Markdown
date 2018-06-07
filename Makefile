@@ -1,3 +1,6 @@
+TEX_DIR = tex
+RMD_DIR = Rmd
+
 pdf:
 	Rscript --quiet _render.R "bookdown::pdf_book"
 

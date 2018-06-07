@@ -9,16 +9,17 @@ advisor: "周星驰"
 major: "软件工程"
 defenddate: "`r format(Sys.Date(),format='%Y年%m月%d日')`"
 date: "`r format(Sys.Date(),format='%Y年%m月%d日')`"
+
 englishauthor: "Jay Zhou"
 englishadvisor: "Xingchi Zhou"
 englishinstitute: "Shanghai Jiao Tong University"
 englishdate: "`r format(Sys.Date(),format='%b. %d, %Y')`"
 englishtitle: "A Sample Document for Bookdown-Based SJTU Thesis Template"
 englishmajor: "Software Engineering"
+
 bibliography: [bib/thesis.bib]
-biblio-style: apalike
 link-citations: yes
 colorlinks: yes
-lot: yes
-lof: yes
+lot: no
+lof: no
 ---

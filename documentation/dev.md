@@ -8,7 +8,7 @@
 
 ## 实现原理
 
-在 `latex` 目录下定义了一个模板文件 `template.tex`，其利用 pandoc 的模板功能对 SJTUThesis 的 `thesis.tex` 文件进行了模板化的定义。在编译的过程中，bookdown 会将 `index.Rmd`中的配置注入到模板中并且在 `_book` 目录下生成真正的 tex 文件，随后对其进行编译。最后在 `_book` 中产生 PDF 文件
+在 `template` 目录下定义了一个模板文件 `template.tex`，其利用 pandoc 的模板功能对 SJTUThesis 的 `thesis.tex` 文件进行了模板化的定义。在编译的过程中，bookdown 会将 `index.Rmd`中的配置注入到模板中并且在 `_book` 目录下生成真正的 tex 文件，随后对其进行编译。最后在 `_book` 中产生 PDF 文件
 
 ## 设计上的权衡
 
