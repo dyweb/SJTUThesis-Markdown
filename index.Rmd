@@ -21,8 +21,4 @@ link-citations: yes
 colorlinks: yes
 lot: yes
 lof: yes
-site: bookdown::bookdown_site
-description: "深度操作系统的简单介绍"
-github-repo: dyweb/SJTUThesis-RMarkdown
-cover-image: images/cover.jpg
 ---
