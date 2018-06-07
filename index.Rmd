@@ -2,7 +2,7 @@
 title: "上海交通大学论文 bookdown 模板示例文档"
 author: "周杰伦"
 documentclass: sjtuthesis
-classoption: [doctor]
+classoption: [doctor,oneside]
 studentnumber: "116037910024"
 school: "上海交通大学"
 advisor: "周星驰"
