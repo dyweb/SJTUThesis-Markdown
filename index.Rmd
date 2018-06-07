@@ -4,7 +4,7 @@ author: "周杰伦"
 documentclass: sjtuthesis
 classoption: [doctor,oneside]
 studentnumber: "116037910024"
-school: "上海交通大学"
+school: "软件学院"
 advisor: "周星驰"
 major: "软件工程"
 defenddate: "`r format(Sys.Date(),format='%Y年%m月%d日')`"
@@ -12,7 +12,7 @@ date: "`r format(Sys.Date(),format='%Y年%m月%d日')`"
 
 englishauthor: "Jay Zhou"
 englishadvisor: "Xingchi Zhou"
-englishinstitute: "Shanghai Jiao Tong University"
+englishinstitute: "School of Software"
 englishdate: "`r format(Sys.Date(),format='%b. %d, %Y')`"
 englishtitle: "A Sample Document for Bookdown-Based SJTU Thesis Template"
 englishmajor: "Software Engineering"
