@@ -1,0 +1,4 @@
+book_filename: SJTUThesis
+rmd_subdir: TRUE
+clean: [packages.bib, bookdown.bbl]
+delete_merged_file: TRUE

@@ -1,0 +1,28 @@
+---
+title: "上海交通大学论文 bookdown 模板示例文档"
+author: "周杰伦"
+documentclass: sjtuthesis
+classoption: [doctor]
+studentnumber: "116037910024"
+school: "上海交通大学"
+advisor: "周星驰"
+major: "软件工程"
+defenddate: "`r format(Sys.Date(),format='%Y年%m月%d日')`"
+date: "`r format(Sys.Date(),format='%Y年%m月%d日')`"
+englishauthor: "Jay Zhou"
+englishadvisor: "Xingchi Zhou"
+englishinstitute: "Shanghai Jiao Tong University"
+englishdate: "`r format(Sys.Date(),format='%b. %d, %Y')`"
+englishtitle: "A Sample Document for Bookdown-Based SJTU Thesis Template"
+englishmajor: "Software Engineering"
+bibliography: [bib/thesis.bib]
+biblio-style: apalike
+link-citations: yes
+colorlinks: yes
+lot: yes
+lof: yes
+site: bookdown::bookdown_site
+description: "深度操作系统的简单介绍"
+github-repo: dyweb/SJTUThesis-RMarkdown
+cover-image: images/cover.jpg
+---
